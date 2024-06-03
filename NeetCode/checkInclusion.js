@@ -40,7 +40,6 @@
 //     return false;
 // }
 function checkInclusion(s1, s2) {
-    //
     const s1Chars = s1.split('');
     const s1Sorted = s1Chars.sort().join('');
     const chars = s2.split('')
