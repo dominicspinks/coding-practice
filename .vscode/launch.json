@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: int-roman",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Leetcode/C#/integer-to-roman/integer-to-roman.csproj",
+            "launchConfigurationId": "TargetFramework=;integer-to-roman"
+        }
+    ]
+}

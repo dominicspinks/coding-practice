@@ -1,0 +1,15 @@
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/bin/Debug/net8.0/integer-to-roman
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/bin/Debug/net8.0/integer-to-roman.deps.json
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/bin/Debug/net8.0/integer-to-roman.runtimeconfig.json
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/bin/Debug/net8.0/integer-to-roman.dll
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/bin/Debug/net8.0/integer-to-roman.pdb
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/integer-to-roman.GeneratedMSBuildEditorConfig.editorconfig
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/integer-to-roman.AssemblyInfoInputs.cache
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/integer-to-roman.AssemblyInfo.cs
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/integer-to-roman.csproj.CoreCompileInputs.cache
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/integer-to-roman.sourcelink.json
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/integer-to-roman.dll
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/refint/integer-to-roman.dll
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/integer-to-roman.pdb
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/integer-to-roman.genruntimeconfig.cache
+/home/dominic/projects/coding-practice/Leetcode/C#/integer-to-roman/obj/Debug/net8.0/ref/integer-to-roman.dll

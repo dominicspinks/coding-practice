@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dominic/projects/coding-practice/Leetcode/C#/roman-to-integer/roman-to-integer.csproj": {}
+  },
+  "projects": {
+    "/home/dominic/projects/coding-practice/Leetcode/C#/roman-to-integer/roman-to-integer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dominic/projects/coding-practice/Leetcode/C#/roman-to-integer/roman-to-integer.csproj",
+        "projectName": "roman-to-integer",
+        "projectPath": "/home/dominic/projects/coding-practice/Leetcode/C#/roman-to-integer/roman-to-integer.csproj",
+        "packagesPath": "/home/dominic/.nuget/packages/",
+        "outputPath": "/home/dominic/projects/coding-practice/Leetcode/C#/roman-to-integer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dominic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
